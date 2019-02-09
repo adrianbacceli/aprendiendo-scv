@@ -7,7 +7,12 @@ Usar un software específico para realizar el control de versiones.
 Algunos ejemplos de los sistemas más usados son:
 
 -SourceSafe: Ya no se utiliza tanto, pero era uno de los mejores exponentes del modo de contribución exclusivo.
+https://gitlab.com/flashzxx/aprendiendo-scv/blob/972d050446e2f27f9506c4dcd82c959d6783fe7f/ejemplos/im%C3%A1genes/sourcesafe.jpg
+
 
 -Mercurial: que es un sistema distribuido.
+https://gitlab.com/flashzxx/aprendiendo-scv/blob/972d050446e2f27f9506c4dcd82c959d6783fe7f/ejemplos/im%C3%A1genes/mercurial.png
+
 
 -Team Foundation Version Control: que es uno de los máximos exponentes del modo centralizado.
+https://gitlab.com/flashzxx/aprendiendo-scv/blob/972d050446e2f27f9506c4dcd82c959d6783fe7f/ejemplos/im%C3%A1genes/team_foundation_version_control.png
