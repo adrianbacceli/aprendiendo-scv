@@ -1,3 +1,5 @@
+Los sistemas de control de versiones se utilizan para diferentes motivos, por ejemplo:
+
 Guardar distintas copias de los ficheros nombrándolos adecuadamente.
 Hacer scripts para automatizar las copias.
 Usar un software específico para realizar el control de versiones.
