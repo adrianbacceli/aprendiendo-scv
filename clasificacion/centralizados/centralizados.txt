@@ -1,1 +1,2 @@
-En un sistema de control de versiones centralizado todos nuestros fuentes y sus versiones están almacenados en un único directorio (llamado repositorio de fuentes) de un ordenador (un servidor).
+En un sistema de control de versiones centralizado todos nuestros fuentes y sus versiones están almacenados en un único 
+directorio (llamado repositorio de fuentes) de un ordenador (un servidor).
