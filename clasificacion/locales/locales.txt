@@ -1,1 +1,4 @@
--Locales: Un método de control de versiones usado por mucha gente es copiar los archivos a otro directorio (quizás indicando la fecha y hora en que lo hicieron, si son avispados). Este enfoque es muy común porque es muy simple, pero también tremendamente propenso a errores. Es fácil olvidar en qué directorio te encuentras, y guardar accidentalmente en el archivo equivocado o sobrescribir archivos que no querías.
+-Locales: Un método de control de versiones usado por mucha gente es copiar los archivos a otro directorio 
+(quizás indicando la fecha y hora en que lo hicieron, si son avispados). Este enfoque es muy común porque es 
+muy simple, pero también tremendamente propenso a errores. Es fácil olvidar en qué directorio te encuentras 
+y guardar accidentalmente en el archivo equivocado o sobrescribir archivos que no querías.
