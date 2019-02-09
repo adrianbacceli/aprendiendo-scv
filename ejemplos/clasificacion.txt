@@ -1,0 +1,8 @@
+Clasificación
+Los sistemas de control de versiones se pueden clasifica en 2 grandes grupos:
+
+Centralizados
+
+Distribuidos
+
+además, se pueden considerar los sistemas de control locales
