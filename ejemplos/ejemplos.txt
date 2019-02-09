@@ -3,3 +3,11 @@ Los sistemas de control de versiones se utilizan para diferentes motivos, por ej
 Guardar distintas copias de los ficheros nombrándolos adecuadamente.
 Hacer scripts para automatizar las copias.
 Usar un software específico para realizar el control de versiones.
+
+Algunos ejemplos de los sistemas más usados son:
+
+-SourceSafe: Ya no se utiliza tanto, pero era uno de los mejores exponentes del modo de contribución exclusivo.
+
+-Mercurial: que es un sistema distribuido.
+
+-Team Foundation Version Control: que es uno de los máximos exponentes del modo centralizado.
